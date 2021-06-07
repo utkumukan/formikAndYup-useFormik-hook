@@ -1,0 +1,28 @@
+{
+  "name": "formik-hook",
+  "version": "0.0.202",
+  "description": "This example about using Formik and Yup with useFormik hook and MaterialUI",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "formik": "latest",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-scripts": "3.4.3",
+    "yup": "0.29.3"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "semi": true
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
